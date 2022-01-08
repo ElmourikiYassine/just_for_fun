@@ -1,12 +1,4 @@
-dffajkkkkkjskdfjlkkilkdf	
-
-
-
-
-
-
-
-
-
-fasd
-this the new part added
+html 
+css
+javaScript
+[nodeJs]
